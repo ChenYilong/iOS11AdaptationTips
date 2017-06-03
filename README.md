@@ -8,6 +8,6 @@ for iOS11 in [ObjC, Swift, English, 中文] {...}
 
    - [《iOS9适配教程》]( https://github.com/ChenYilong/iOS9AdaptationTips ) 
    
-   - [《iOS10适配教程》]( https://github.com/ChenYilong/iOS9AdaptationTips ) 
+   - [《iOS10适配教程》]( https://github.com/ChenYilong/iOS10AdaptationTips ) 
   
 QQ交流群：515295083.
