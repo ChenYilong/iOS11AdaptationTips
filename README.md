@@ -4,6 +4,9 @@
 
 for iOS11 in [ObjC, Swift, English, 中文] {...} 
 
+
+点击右上角的 star 和 watch 按钮，可以收藏本仓库，并在文档、issue、Demo更新时收到邮件通知。
+
 相关链接：
 
    - [《iOS9适配教程》]( https://github.com/ChenYilong/iOS9AdaptationTips ) 
@@ -11,3 +14,5 @@ for iOS11 in [ObjC, Swift, English, 中文] {...}
    - [《iOS10适配教程》]( https://github.com/ChenYilong/iOS10AdaptationTips ) 
   
 QQ交流群：515295083.
+
+

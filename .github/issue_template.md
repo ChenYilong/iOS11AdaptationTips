@@ -13,6 +13,7 @@ Choose a problem area with iOS SDK：
 * [ ] AVFoundation
 * [ ] iTunes Connect
 * [ ] App Store
+* [ ] Xcode
 * [ ] Accelerate Framework 
 * [ ] Accounts Framework
 * [ ] App Switcher
@@ -48,7 +49,7 @@ Choose a problem area with iOS SDK：
 * [ ] Intents Framework
 * [ ] IOKit
 * [ ] Local Authentication Framework
-* [ ] Something not on this list
+* [ ] Something not on this list:_________
 
 ## Base Information for this issue 
 
